@@ -32,3 +32,7 @@ bPopup is a lightweight jQuery modal popup plugin (only 1.34KB gzipped). It does
 * Legacy fallback: In version 0.9.0 I changed the default close class from bClose to b-close. To avoid issues when you update to latest version I'm also binding a close event on the old default close class, bModal.
 * Bugfix: When moving an iframe through the DOM, IE9 will excecute the code in the iframe as many times as moves you make. Each time (but the last one) will return udefined on Object, String, Array etc.
 * Bugfix: When appending is false no overlay was created.
+
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/namestrap/bpopup_popupbox/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
